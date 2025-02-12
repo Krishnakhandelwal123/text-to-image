@@ -1,4 +1,0 @@
-echo "node_modules/" >> .gitignore
-echo ".env" >> .gitignore
-echo "build/" >> .gitignore
-echo "dist/" >> .gitignore
